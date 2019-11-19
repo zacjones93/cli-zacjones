@@ -1,16 +1,16 @@
 {
-  "name": "@bnb/card",
+  "name": "zacjones",
   "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Zac Jones (@zacjones93)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git@github.com:zacjones93/cli-zacjones.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://zacjones.io",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Zac Jones <zacjones93@gmail.com> (https://zacjones.io)",
   "license": "MIT",
   "files": [
     "bin/card.js",
