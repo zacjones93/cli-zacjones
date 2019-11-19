@@ -1,6 +1,6 @@
 {
   "name": "zacjones",
-  "version": "1.7.0",
+  "version": "1.0.0",
   "description": "A personal card for Zac Jones (@zacjones93)",
   "main": "/bin/card.js",
   "bin": {
