@@ -20,7 +20,7 @@ const data = {
   work: chalk.white('Instructional Design and Learner Advocate at egghead.io'),
   opensource: chalk.white('egghead community notes'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('zacjones93'),
-  npm: chalk.gray('https://npmjs.com/') + chalk.red('zacjones93'),
+  npm: chalk.gray('https://npmjs.com/') + chalk.red('zacjones'),
   github: chalk.gray('https://github.com/') + chalk.green('zacjones93'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('zacjones93'),
   web: chalk.cyan('https://zacjones.io'),
