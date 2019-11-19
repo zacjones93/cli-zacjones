@@ -38,10 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/zacjones93/cli-zacjones/issues"
   },
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.registry.github.com/"
-  }
+  "dependencies": {}
 }
